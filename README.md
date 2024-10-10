@@ -134,8 +134,7 @@
 <ol>
   <li><strong>Open the Colab Notebook:</strong>
     <ul>
-      <li><a href="#">JustWatch Web Scraper Colab (TV Shows)</a></li>
-      <li><a href="#">JustWatch Web Scraper Colab (Movies)</a></li>
+      <li><a href="https://colab.research.google.com/drive/1wL31tKADjwyH1ROOIPWPYI9lNLz0tZzB#scrollTo=tytqsADVR2x6">JustWatch Web Scraper Colab </a></li>
     </ul>
   </li>
   <li><strong>Run the cells:</strong> Each step is laid out in individual cells in the notebook, and you can run them sequentially to see how the data is scraped and processed.</li>
@@ -169,8 +168,7 @@
 <h2>🔗 Links</h2>
 
 <ul>
-  <li><a href="#">Google Colab Notebook (TV Shows)</a></li>
-  <li><a href="#">Google Colab Notebook (Movies)</a></li>
+  <li><a href="https://colab.research.google.com/drive/1wL31tKADjwyH1ROOIPWPYI9lNLz0tZzB#scrollTo=tytqsADVR2x6">Google Colab Notebook (TV Shows)</a></li>
 </ul>
 
 <h2>🤝 Contributing</h2>
