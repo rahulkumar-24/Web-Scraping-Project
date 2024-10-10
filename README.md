@@ -1,6 +1,4 @@
-Here's the code for your GitHub README in HTML format:
 
-```html
 <h1>🎬 JustWatch Movie Data Scraper</h1>
 
 <p>This project is a <strong>web scraping tool</strong> designed to extract movie-related data from the JustWatch website. It allows users to collect information such as movie titles, release years, genres, IMDB ratings, runtimes, production countries, streaming services, and age ratings.</p>
@@ -129,6 +127,4 @@ Here's the code for your GitHub README in HTML format:
 <h2>📧 Contact</h2>
 
 <p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:rahulkumar.19k8@gmail.com">rahulkumar.19k8@gmail.com</a>.</p>
-```
 
-You can use this code directly in your GitHub repository's README file. Be sure to update the placeholder links with the correct ones!
