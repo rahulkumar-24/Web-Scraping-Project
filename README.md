@@ -168,7 +168,7 @@
 <h2>🔗 Links</h2>
 
 <ul>
-  <li><a href="https://colab.research.google.com/drive/1wL31tKADjwyH1ROOIPWPYI9lNLz0tZzB#scrollTo=tytqsADVR2x6">Google Colab Notebook (TV Shows)</a></li>
+  <li><a href="https://colab.research.google.com/drive/1wL31tKADjwyH1ROOIPWPYI9lNLz0tZzB#scrollTo=tytqsADVR2x6">Google Colab Notebook </a></li>
 </ul>
 
 <h2>🤝 Contributing</h2>
